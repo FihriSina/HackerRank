@@ -1,1 +1,2 @@
 # HackerRank
+  for fun
